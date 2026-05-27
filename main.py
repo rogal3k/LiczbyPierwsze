@@ -87,5 +87,11 @@ def main():
     print(f"Znaleziono liczb pierwszych: {len(primes_found)}")
     print("="*50)
 
+    print("Zapisywanie znalezionych liczb do pliku 'znalezione_liczby.txt'...")
+    with open("znalezione_liczby.txt", "w") as out:
+        for idx, prime in sorted(primes_found):
+            out.write(f"Blok {idx}: {prime}\n")
+    print("Gotowe! Plik został zapisany.")
+
 if __name__ == '__main__':
     main()

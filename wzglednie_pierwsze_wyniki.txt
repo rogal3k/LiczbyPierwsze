@@ -1,0 +1,47 @@
+Rozpoczynam zmasowane poszukiwania na 12 rdzeniach.
+Czas szukania dla każdej pary: 360.0 sekund...
+--------------------------------------------------
+Para 1: W czasie 360.0 sekund zdołano znaleźć 97864502 liczb względnie pierwszych.
+Para 2: W czasie 360.0 sekund zdołano znaleźć 95917896 liczb względnie pierwszych.
+Para 3: W czasie 360.0 sekund zdołano znaleźć 132513250 liczb względnie pierwszych.
+Para 4: W czasie 360.0 sekund zdołano znaleźć 108524083 liczb względnie pierwszych.
+Para 5: W czasie 360.0 sekund zdołano znaleźć 90191338 liczb względnie pierwszych.
+Para 6: W czasie 360.0 sekund zdołano znaleźć 95512392 liczb względnie pierwszych.
+Para 7: W czasie 360.0 sekund zdołano znaleźć 113086796 liczb względnie pierwszych.
+Para 8: W czasie 360.0 sekund zdołano znaleźć 70079226 liczb względnie pierwszych.
+Para 9: W czasie 360.0 sekund zdołano znaleźć 84068215 liczb względnie pierwszych.
+Para 10: W czasie 360.0 sekund zdołano znaleźć 77085891 liczb względnie pierwszych.
+--------------------------------------------------
+Eksperyment zakończony. Całkowity czas działania programu: 360.33 s.
+
+Rozpoczynam zmasowane poszukiwania na 12 rdzeniach.
+Czas szukania dla każdej pary: 720.0 sekund...
+--------------------------------------------------
+Para 1: W czasie 720.0 sekund zdołano znaleźć 138927110 liczb względnie pierwszych.
+Para 2: W czasie 720.0 sekund zdołano znaleźć 158223420 liczb względnie pierwszych.
+Para 3: W czasie 720.0 sekund zdołano znaleźć 148682012 liczb względnie pierwszych.
+Para 4: W czasie 720.0 sekund zdołano znaleźć 174623851 liczb względnie pierwszych.
+Para 5: W czasie 720.0 sekund zdołano znaleźć 208238244 liczb względnie pierwszych.
+Para 6: W czasie 720.0 sekund zdołano znaleźć 256453569 liczb względnie pierwszych.
+Para 7: W czasie 720.0 sekund zdołano znaleźć 202026506 liczb względnie pierwszych.
+Para 8: W czasie 720.0 sekund zdołano znaleźć 135752187 liczb względnie pierwszych.
+Para 9: W czasie 720.0 sekund zdołano znaleźć 218479657 liczb względnie pierwszych.
+Para 10: W czasie 720.0 sekund zdołano znaleźć 146863115 liczb względnie pierwszych.
+--------------------------------------------------
+Eksperyment zakończony. Całkowity czas działania programu: 720.34 s.
+
+Rozpoczynam zmasowane poszukiwania na 12 rdzeniach.
+Czas szukania dla każdej pary: 1.0 sekund...
+--------------------------------------------------
+Para 1: W czasie 1.0 sekund zdołano znaleźć 188615 liczb względnie pierwszych.
+Para 2: W czasie 1.0 sekund zdołano znaleźć 185410 liczb względnie pierwszych.
+Para 3: W czasie 1.0 sekund zdołano znaleźć 303317 liczb względnie pierwszych.
+Para 4: W czasie 1.0 sekund zdołano znaleźć 191862 liczb względnie pierwszych.
+Para 5: W czasie 1.0 sekund zdołano znaleźć 174962 liczb względnie pierwszych.
+Para 6: W czasie 1.0 sekund zdołano znaleźć 143907 liczb względnie pierwszych.
+Para 7: W czasie 1.0 sekund zdołano znaleźć 197715 liczb względnie pierwszych.
+Para 8: W czasie 1.0 sekund zdołano znaleźć 156757 liczb względnie pierwszych.
+Para 9: W czasie 1.0 sekund zdołano znaleźć 177466 liczb względnie pierwszych.
+Para 10: W czasie 1.0 sekund zdołano znaleźć 163135 liczb względnie pierwszych.
+--------------------------------------------------
+Eksperyment zakończony. Całkowity czas działania programu: 1.57 s.
